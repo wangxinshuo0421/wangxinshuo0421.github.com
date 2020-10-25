@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<center><font size='6'>王鑫硕(Noah)</font></>
 
-You can use the [editor on GitHub](https://github.com/wangxinshuo0421/wangxinshuo0421.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div align='center'><font size='4' color=#6f6f67>Postgraduat Student of Signal and Information Processing</font></div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align='center'><font size='4' color=#6f6f67>E-mail:wangxinshuo0421@gamil.com;wangxinshuo0421@foxmail.com</font></div>
 
-### Markdown
+<div align='center'><font size='4' color=#6f6f67>GitHub:wangxinshuo0421</font></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Updata 10/25/2020
 
-```markdown
-Syntax highlighted code block
+## Education experience
 
-# Header 1
-## Header 2
-### Header 3
+* <img src="\UCAS.jpg" height="45" width="50">M.S. at Nation Network New Media Engineering Research Center of Signal and Information Processing, [University of Chinese Academy of Sciences (UCAS)][MS School]
 
-- Bulleted
-- List
+* <img src="\CQUPT.jpg" height="45" width="50">B.S. at School of Communication and Information Engineering of Communication Engineering, [Chongqing University of Posts and Telecommunication (CQUPT)][BS School]
 
-1. Numbered
-2. List
+* <img src="SDEHS.jpg" height = "45" width = "50"> High school student in [Shandong Experimental High School][High School]
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Publication
 
-### Jekyll Themes
+* **Xinshuo Wang**, Keyao Li, Yi Zheng, Peng Jia:  A distributed ad hoc network intelligent garbage can clearing system and a method. **Chinese patent for invention** (Accepted, Published, Under the Substantive Examination Stage)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangxinshuo0421/wangxinshuo0421.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+[MS School]: https://www.ucas.ac.cn/
+[BS School]: https://www.cqupt.edu.cn/
+[High School]: http://sdshiyan.jinan.cn/
+
