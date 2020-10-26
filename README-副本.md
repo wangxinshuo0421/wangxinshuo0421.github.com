@@ -21,7 +21,7 @@ Updata 10/26/2020
 
 ## About me
 
-I received the B.S. degrees in communication engineering from Chongqing University of Posts and Telecommunication ([CQUPT][BS School]) in 2021. In October 2020, I was recommendated to University of Chinese Academy of Sciences ([UCAS][MS School]) for my master degrees.
+
 
 ## Education experience
 
@@ -43,22 +43,18 @@ I received the B.S. degrees in communication engineering from Chongqing Universi
 
 ## Awards
 
-* **2020/07 - Chongqing Division Second Prize - The 11th Lanqiao Cup National Software and Information Technology Professional Competition Program Design Group**
-* **2019/11 - National Third Prize - National University Computer Energy Challenge**
-* **2019/10 - Third Prize in Western Division - The 4th Smart Connected Innovation Competition**
-* **2019/08 - National Second Prize - National Undergraduate Electronics Design Contest**
 * **2019/05 - Third Prize - The 12th Central China Regional Mathematical Modeling Invitational Competition **
+* **2019/08 - National Second Prize - National Undergraduate Electronics Design Contest**
+* **2019/10 - Third Prize in Western Division - The 4th Smart Connected Innovation Competition**
+* **2019/11 - National Third Prize - National University Computer Energy Challenge**
+* **2020/07 - Chongqing Division Second Prize - The 11th Lanqiao Cup National Software and Information Technology Professional Competition Program Design Group**
 
 ## Projects
 
-* **Intelligent Garbage Can Clearing System**
-* **Personal Health Assistant APP**
+* **INTELLIGENT GARBAGE CAN CLEARING SYSTEM**
 * **Electronics Design**
   + Remote Amplitude Frequency Characteristic Measurement Device
   + Simple Differential Probe on High-speed
-  + Handwritten Drawing board
-  + Gesture Recognition Based on FDC2214
-  + etc
 
 ## Skills
 
@@ -66,3 +62,5 @@ I received the B.S. degrees in communication engineering from Chongqing Universi
 * **Tools:** Git, Matlab, Offices, XMind, Pycharm
 * **Mobile Development:** Android App Development
 * **Electronics Design:** Altium Designer for PCB, Embedded Programming, Verilog HDL
+
+ 
