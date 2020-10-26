@@ -15,7 +15,7 @@
 
 <div align='center'><font size='4' color=#6f6f67>GitHub: wangxinshuo0421</font></div>
 
-Update 10/26/2020
+Update 10/26/2021
 
 
 
@@ -71,6 +71,6 @@ I received the B.S. degrees in communication engineering from Chongqing Universi
 
 [[my English CV]][English CV]				[[my Chinese CV]][Chinese CV]
 
-[English CV]: myEnglishCV.pdf
-[Chinese CV]: myChineseCV.pdf
+[English CV]: myEnglishCV.jpg
+[Chinese CV]: myChineseCV.jpg
 
